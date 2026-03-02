@@ -1,4 +1,4 @@
-# 🚀 Neon Snake Arena – End-to-End DevSecOps on AWS EKS
+# 🚀 Neon Snake Arena – End-to-End DevSecOps on AWS EKS Terraform
 
 An end-to-end DevSecOps project that deploys the **Neon Snake Arena** game on **AWS EKS** using Terraform, Jenkins, ArgoCD, and other modern DevSecOps tools.
 
